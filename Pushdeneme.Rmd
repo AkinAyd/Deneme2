@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "ben"
+date: "2023-04-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Push Deneme
